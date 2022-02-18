@@ -1,0 +1,12 @@
+# build stuff
+target/
+debug/
+
+# cargo lock
+Cargo.lock
+
+# rust fmt
+**/*.rs.bk
+
+# debug stuff
+*.pdb
